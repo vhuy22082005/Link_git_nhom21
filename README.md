@@ -7,7 +7,7 @@ Lớp học phần: 126LTDD02
 Giảng viên: ThS. Đỗ Phú Huy
 
 ### 👥 3. Nhóm thực hiện
-Nhóm: 1
+Nhóm: 21
 
 ### 📌 4. Đề tài
 Xây dựng ứng dụng Gamification khuyến khích sinh viên tham gia hoạt động (Campus Quest)
